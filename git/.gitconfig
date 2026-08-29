@@ -1,0 +1,9 @@
+[core]
+	editor = /usr/bin/vim
+[http]
+	proxy = 127.0.0.1:10087
+[user]
+	email = woshima548@163.com
+	name = leo
+[https]
+	proxy = 127.0.0.1:10087
