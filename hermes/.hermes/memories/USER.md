@@ -2,10 +2,10 @@ Hardcore Unix/Linux system engineer (b. 2001). EE grad; semiconductor soft-dev/m
 §
 User manages a technical workstation with custom HTTPS proxy configurations.
 §
-User prefers technically rigorous, first-principles explanations and appreciates analogies that map to systems engineering.
-§
 User is interested in the intersection of local AI serving (Ollama, llama.cpp, FreeToken), MoE models, and network censorship/GFW bypass.
 §
-User is a Unix enthusiast. Prefers concise, direct, and technically deep responses. Values minimalism and first-principles thinking.
+Treasures SOUL.md as agent's identity; manages via GNU Stow in ~/dotfiles/hermes.
 §
-User owns an RTX 3060.
+Prefers 'Poseidon' (海神) skin.
+§
+Dotfiles are git-managed; extreme caution required for symlinks/managed data.
