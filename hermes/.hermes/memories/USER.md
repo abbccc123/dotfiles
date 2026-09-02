@@ -9,3 +9,9 @@ Treasures SOUL.md as agent's identity; manages via GNU Stow in ~/dotfiles/hermes
 Prefers 'Poseidon' (海神) skin.
 §
 Dotfiles are git-managed; extreme caution required for symlinks/managed data.
+§
+User's name is 南, prefers to be called 南哥.
+§
+Steam veteran (account since ~2013, 6000+ hours played).
+§
+Workstation has a 600W Gold PSU (limits high-TDP GPU upgrades).
